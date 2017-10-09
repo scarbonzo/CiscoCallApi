@@ -9190,11 +9190,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projects\\api\\CiscoCallApi\\calls\\calls.csproj",
+      "projectUniqueName": "C:\\projects\\api\\CiscoCallApiv2\\calls\\calls.csproj",
       "projectName": "calls",
-      "projectPath": "C:\\projects\\api\\CiscoCallApi\\calls\\calls.csproj",
+      "projectPath": "C:\\projects\\api\\CiscoCallApiv2\\calls\\calls.csproj",
       "packagesPath": "C:\\Users\\Rich-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\api\\CiscoCallApi\\calls\\obj\\",
+      "outputPath": "C:\\projects\\api\\CiscoCallApiv2\\calls\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

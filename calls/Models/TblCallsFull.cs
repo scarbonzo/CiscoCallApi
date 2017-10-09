@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
 namespace calls.Models
@@ -11,6 +12,7 @@ namespace calls.Models
 
     public partial class TblCallsFull
     {
+        [Key]
         public int CallId { get; set; }
         public string CdrRecordType { get; set; }
         public string GlobalCallIdCallManagerId { get; set; }
