@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reodice.LSNJ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reodice.LSNJ\\.nuget\\packages"
+    ]
+  }
+}

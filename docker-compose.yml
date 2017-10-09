@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  calls:
+    image: calls
+    build:
+      context: ./calls
+      dockerfile: Dockerfile

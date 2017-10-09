@@ -1,0 +1,11 @@
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\bin\Debug\netcoreapp1.1\calls.deps.json
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\bin\Debug\netcoreapp1.1\calls.runtimeconfig.json
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\bin\Debug\netcoreapp1.1\calls.runtimeconfig.dev.json
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\bin\Debug\netcoreapp1.1\calls.dll
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.csprojResolveAssemblyReference.cache
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.AssemblyInfo.cs
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\bin\Debug\netcoreapp1.1\calls.pdb
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.dll
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.pdb
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.csproj.CoreCompileInputs.cache
+C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp1.1\calls.AssemblyInfoInputs.cache
