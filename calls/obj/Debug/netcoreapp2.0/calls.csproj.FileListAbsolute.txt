@@ -9,3 +9,14 @@ C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netc
 C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfo.cs
 C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp2.0\calls.dll
 C:\Users\reodice.LSNJ\iCloudDrive\Projects\VSCode\api\calls\calls\obj\Debug\netcoreapp2.0\calls.pdb
+C:\projects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.deps.json
+C:\projects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.runtimeconfig.json
+C:\projects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.runtimeconfig.dev.json
+C:\projects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.dll
+C:\projects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.pdb
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.csprojResolveAssemblyReference.cache
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.csproj.CoreCompileInputs.cache
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfoInputs.cache
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfo.cs
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.dll
+C:\projects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.pdb
