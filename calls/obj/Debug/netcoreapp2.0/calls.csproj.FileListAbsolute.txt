@@ -31,3 +31,14 @@ C:\projects\api\CiscoCallApiv2\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfoI
 C:\projects\api\CiscoCallApiv2\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfo.cs
 C:\projects\api\CiscoCallApiv2\calls\obj\Debug\netcoreapp2.0\calls.dll
 C:\projects\api\CiscoCallApiv2\calls\obj\Debug\netcoreapp2.0\calls.pdb
+C:\VSProjects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.deps.json
+C:\VSProjects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.runtimeconfig.json
+C:\VSProjects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.runtimeconfig.dev.json
+C:\VSProjects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.dll
+C:\VSProjects\api\CiscoCallApi\calls\bin\Debug\netcoreapp2.0\calls.pdb
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.csprojResolveAssemblyReference.cache
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.csproj.CoreCompileInputs.cache
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfoInputs.cache
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.AssemblyInfo.cs
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.dll
+C:\VSProjects\api\CiscoCallApi\calls\obj\Debug\netcoreapp2.0\calls.pdb

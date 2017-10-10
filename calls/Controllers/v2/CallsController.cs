@@ -11,21 +11,13 @@ namespace calls.Controllers.v2
         CallAnalyzerContext context = new CallAnalyzerContext();
 
         [HttpGet]
-        [Route("api/v2/calls")]
-
-        public string About()
-        {
-            return "Use [HttpPost] to access this endpoint. Valid parameters are: start [DateTime], end [DateTime], number [string], device [string] cause [string], skip [int], take [int]";
-        }
-
-        [HttpGet]
         [Route("api/v2/calls/{id}")]
         public TblCallsFull GetCall(int id)
         {
             return context.TblCallsFull.Find(id);
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("api/v2/calls")]
         public List<TblCallsFull> GetCalls(DateTime? start, DateTime? end, string number, string device, string cause, int skip = 0, int take = 10)
         {
