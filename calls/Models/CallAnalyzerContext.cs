@@ -1,18 +1,16 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace calls.Models
 {
     public partial class CallAnalyzerContext : DbContext
     {
-
         public virtual DbSet<TblCallsFull> TblCallsFull { get; set; }
         public static string ConnectionString { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(ConnectionString);
+            //optionsBuilder.UseSqlServer(ConnectionString);
+            optionsBuilder.UseSqlServer(@"Data Source=LSNJSQL09.lsnj.org;Initial Catalog=CallAnalyzer;user id=sa;password=h@rdw00d;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

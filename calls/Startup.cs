@@ -29,8 +29,8 @@ namespace calls
         public void ConfigureServices(IServiceCollection services)
         {
             //config the db connection string 
-            CallAnalyzerContext.ConnectionString = Configuration.GetConnectionString("CallAnalyzer");
-
+            //CallAnalyzerContext.ConnectionString = Configuration.GetConnectionString("CallAnalyzer");
+            
             // Add framework services.
             services.AddMvc();
         }
